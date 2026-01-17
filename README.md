@@ -1,4 +1,4 @@
-# Sales Analytics System by Harshitha Kalluri {----}|{Business analytics with gen ai }
+# Sales Analytics System by Harshitha Kalluri {bitsom_ba_25071678}|{Business analytics with gen ai }
 
 A comprehensive Python-based system for processing sales data, performing analytics, integrating with external APIs, and generating detailed reports.
 
