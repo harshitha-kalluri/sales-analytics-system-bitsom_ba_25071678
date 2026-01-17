@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Sales Analytics System by Saral anand {----}|{Business analytics with gen ai }
+# Sales Analytics System by Harshitha Kalluri {----}|{Business analytics with gen ai }
 
 A comprehensive Python-based system for processing sales data, performing analytics, integrating with external APIs, and generating detailed reports.
 
@@ -72,6 +71,3 @@ The system includes comprehensive error handling for:
 - API connection failures
 - Data validation and parsing errors
 - Invalid data formats
-=======
-# sales-analytics-system-bitsom_ba_25071678
->>>>>>> a33c5192f13ac3d8d13a2e16ba195069748a4aac
