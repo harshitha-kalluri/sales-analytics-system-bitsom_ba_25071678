@@ -27,11 +27,6 @@ sales-analytics-system/
 - Internet connection (required for API-based product enrichment)
 
 
-## Setup Instructions
-
-
-
-
 ## Features
 
 - **Data Processing**: Reads and cleans messy sales transaction files with encoding handling
@@ -39,6 +34,8 @@ sales-analytics-system/
 - **Analytics**: Performs various sales analyses including revenue, region-wise sales, top products, customer analysis, and daily trends
 - **API Integration**: Enriches sales data with real-time product information from DummyJSON API
 - **Reporting**: Generates comprehensive text reports with all key metrics
+
+## Setup Instructions
 
 ### Clone the Repository
 ```bash
