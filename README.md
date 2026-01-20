@@ -59,14 +59,15 @@ python main.py
 ```
 
 The program performs the following steps:
-1.Reads raw sales data from data/sales_data.txt
-2.Parses and validates transaction records.
-3. Allow optional data filtering, filters out invalid or incomplete entries.
-4. Validate transactions
-5. Perform comprehensive analysis
-6. Fetch product data from API
-7. Enrich sales data
-8. Generate detailed reports
+
+- Reads raw sales data from data/sales_data.txt
+- Parses and validates transaction records.
+- Allow optional data filtering, filters out invalid or incomplete entries.
+- Validate transactions
+- Perform comprehensive analysis
+- Fetch product data from API
+- Enrich sales data
+- Generate detailed reports
 
 ## Output Files
 
