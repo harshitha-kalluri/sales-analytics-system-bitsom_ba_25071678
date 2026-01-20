@@ -1,1 +1,1 @@
-requests #can also be requests>=2.28.0 if you want to specify a minimum version
+requests #can also be requests>=2.28.0 if you want to specify a minimum version.
